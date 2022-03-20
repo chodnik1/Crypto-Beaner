@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5eFD65440cc2843cd230B5096E595E9c3d63BD67",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5efd65440cc2843cd230b5096e595e9c3d63bd67",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Beaner",
+  "SYMBOL": "CBNFT",
+  "MAX_SUPPLY": 1650,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-beaner",
+  "SHOW_BACKGROUND": true
+}

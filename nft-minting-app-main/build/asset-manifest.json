@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chodnik1/Crypto-Beaner/tree/mainstatic/css/main.17ed0176.chunk.css",
+    "main.js": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/main.e49a0fee.chunk.js",
+    "main.js.map": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/main.e49a0fee.chunk.js.map",
+    "runtime-main.js": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/runtime-main.4a96fed0.js",
+    "runtime-main.js.map": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/runtime-main.4a96fed0.js.map",
+    "static/js/2.3affac43.chunk.js": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/2.3affac43.chunk.js",
+    "static/js/2.3affac43.chunk.js.map": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/2.3affac43.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/chodnik1/Crypto-Beaner/tree/mainindex.html",
+    "static/css/main.17ed0176.chunk.css.map": "/chodnik1/Crypto-Beaner/tree/mainstatic/css/main.17ed0176.chunk.css.map",
+    "static/js/2.3affac43.chunk.js.LICENSE.txt": "/chodnik1/Crypto-Beaner/tree/mainstatic/js/2.3affac43.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/chodnik1/Crypto-Beaner/tree/mainstatic/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a96fed0.js",
+    "static/js/2.3affac43.chunk.js",
+    "static/css/main.17ed0176.chunk.css",
+    "static/js/main.e49a0fee.chunk.js"
+  ]
+}
